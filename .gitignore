@@ -1,0 +1,16 @@
+# Binaries for programs and scripts
+/target/
+*.rs.bk
+
+# Node and environment files
+*.log
+.DS_Store
+
+# Output files
+emails.json
+
+# Credentials
+.env
+config.toml
+emails.csv
+emails.json
